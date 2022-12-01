@@ -1,0 +1,41 @@
+body{
+    background-color: brown;
+    background-image: linear-gradient(57deg, #451717db, #ff5722);
+}
+.m1{
+    
+    position: fixed;
+    top: 0px;
+    right: 0%;
+    
+}
+.m2{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    position: absolute;
+    top: 20%;
+    left: 45%;
+}
+.m3{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+
+}
+.m5{
+    color: black;
+    text-align: center;
+
+
+}
+.m6{
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
+.m4{
+    border: 2px solid white;
+    border-radius: 25px;
+    padding: 0px;
+}
